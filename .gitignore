@@ -481,3 +481,6 @@ $RECYCLE.BIN/
 *.db-shm
 *.db-wal
 
+# Hermes agent scratch (plans etc.)
+.hermes/
+
