@@ -475,12 +475,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# Local database
-*.db
-*.db-shm
-*.db-wal
-
-# Hermes agent scratch (plans etc.)
-.hermes/
-
